@@ -38,11 +38,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An epystell of ye famous doctor Erasm[us] of Roterdam vnto the reuerende father & excellent prince, 
+
 #####Body#####
-An epystell of ye famous doctor Erasm[us] of Roterdam vnto the reuerende father & excellent prince, 
+
+1.  To the most reuerende father and lorde / lorde Christopher bysshop of Basyle / Erasmus of Roterdame wyssheth helth.   
+
 #####Back#####
-An epystell of ye famous doctor Erasm[us] of Roterdam vnto the reuerende father & excellent prince, 
+ Printed at London by Thomas Godfray.Cū priuilegio regali.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
